@@ -1,0 +1,13 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1.\relax }}{2}{section.1}%
+\contentsline {section}{\numberline {2.\relax }}{3}{section.2}%
+\contentsline {section}{\numberline {3.\relax }}{4}{section.3}%
+\contentsline {section}{\numberline {4.\relax }}{5}{section.4}%
+\contentsline {section}{\numberline {5.\relax }}{6}{section.5}%
+\contentsline {section}{\numberline {6.\relax }}{7}{section.6}%
+\contentsline {section}{\numberline {7.\relax }}{8}{section.7}%
+\contentsline {section}{\numberline {8.\relax }}{9}{section.8}%
+\contentsline {section}{\numberline {9.\relax }}{10}{section.9}%
+\contentsline {section}{\numberline {10.\relax }}{11}{section.10}%
+\contentsline {section}{\numberline {11.\relax }}{12}{section.11}%
+\contentsline {section}{\numberline {12.\relax }}{13}{section.12}%
