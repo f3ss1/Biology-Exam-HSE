@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  15 MAR 2021 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  15 MAR 2021 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2259,7 +2259,16 @@ File: Pictures//13_4.png Graphic file (type png)
 <use Pictures//13_4.png>
 Package pdftex.def Info: Pictures//13_4.png  used on input line 55.
 (pdftex.def)             Requested size: 512.14963pt x 409.08653pt.
-) [69 <./Pictures//13_4.png>] (./TeX_files/14.tex)
+<Pictures//13.4.png, id=998, 408.92775pt x 271.0125pt>
+File: Pictures//13.4.png Graphic file (type png)
+<use Pictures//13.4.png>
+Package pdftex.def Info: Pictures//13.4.png  used on input line 68.
+(pdftex.def)             Requested size: 512.14963pt x 339.46364pt.
+)
+Overfull \vbox (385.59985pt too high) has occurred while \output is active []
+
+
+[69 <./Pictures//13_4.png> <./Pictures//13.4.png>] (./TeX_files/14.tex)
 [70] (./TeX_files/15.tex) [71] (./TeX_files/16.tex) [72] (./TeX_files/17.tex)
 [73] (./TeX_files/18.tex) [74] (./TeX_files/19.tex) [75] (./TeX_files/20.tex)
 [76] (./TeX_files/21.tex) [77] 
@@ -2273,10 +2282,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 28564 strings out of 479916
- 518787 string characters out of 5886648
- 837126 words of memory out of 5000000
- 44183 multiletter control sequences out of 15000+600000
+ 28571 strings out of 479916
+ 518913 string characters out of 5886648
+ 839650 words of memory out of 5000000
+ 44188 multiletter control sequences out of 15000+600000
  555875 words of font info for 85 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  77i,12n,88p,3447b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2295,10 +2304,10 @@ type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-supe
 r/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074
 .pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (78 pages, 13619270 bytes).
+Output written on main.pdf (78 pages, 13715275 bytes).
 PDF statistics:
- 1146 PDF objects out of 1200 (max. 8388607)
- 934 compressed objects within 10 object streams
- 240 named destinations out of 1000 (max. 500000)
- 1178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1150 PDF objects out of 1200 (max. 8388607)
+ 936 compressed objects within 10 object streams
+ 241 named destinations out of 1000 (max. 500000)
+ 1183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
