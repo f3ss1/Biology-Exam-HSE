@@ -11,77 +11,106 @@
 \contentsline {subsection}{\numberline {3.1.\relax }Нормальное название}{14}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2.\relax }Абстракт}{14}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3.\relax }Картинки}{14}{subsection.3.3}%
-\contentsline {section}{\numberline {4.\relax }Engineering of a novel tri-functional enzyme with MnSOD, catalase and cell-permeable activities}{18}{section.4}%
+\contentsline {section}{\numberline {4.\relax }AnA}{18}{section.4}%
 \contentsline {subsection}{\numberline {4.1.\relax }Нормальное название}{18}{subsection.4.1}%
+\contentsline {paragraph}{Glossary}{18}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2.\relax }Абстракт}{18}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3.\relax }Картинки}{19}{subsection.4.3}%
-\contentsline {section}{\numberline {5.\relax }The ribosome as a missing link in prebiotic evolution II: Ribosomes encode ribosomal proteins that bind to common regions of their own mRNAs and rRNAs}{27}{section.5}%
-\contentsline {subsection}{\numberline {5.1.\relax }Нормальное название}{27}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2.\relax }Абстракт}{27}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1.\relax }Пояснения к вышеуказанному}{27}{subsubsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.3.\relax }Картинки}{28}{subsection.5.3}%
-\contentsline {section}{\numberline {6.\relax }Error-prone PCR of a fungal xylanase for improvement of its alkaline and thermal stability}{30}{section.6}%
+\contentsline {section}{\numberline {5.\relax }Analysis of the Okazaki Fragment Distributions along Single Long DNAs}{25}{section.5}%
+\contentsline {subsection}{\numberline {5.1.\relax }Нормальное название}{25}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2.\relax }Абстракт}{25}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3.\relax }Картинки}{25}{subsection.5.3}%
+\contentsline {paragraph}{Рисунок 1}{26}{figure.28}%
+\contentsline {paragraph}{Рисунок 2}{26}{figure.29}%
+\contentsline {paragraph}{Рисунок 3}{27}{figure.29}%
+\contentsline {paragraph}{Рисунок 4}{27}{figure.30}%
+\contentsline {paragraph}{Рисунок 5}{28}{figure.31}%
+\contentsline {paragraph}{Рисунок 6}{29}{figure.32}%
+\contentsline {section}{\numberline {6.\relax }Programmable T7-based synthetic transcription factors}{30}{section.6}%
 \contentsline {subsection}{\numberline {6.1.\relax }Нормальное название}{30}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1.\relax }Пояснения к вышесказанному}{30}{subsubsection.6.1.1}%
 \contentsline {subsection}{\numberline {6.2.\relax }Абстракт}{30}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3.\relax }Картинки}{31}{subsection.6.3}%
-\contentsline {section}{\numberline {7.\relax }A Single Promoter Inversion Switches Photorhabdus Between Pathogenic and Mutualistic States}{34}{section.7}%
-\contentsline {subsection}{\numberline {7.1.\relax }Нормальное название}{34}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2.\relax }Абстракт}{34}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3.\relax }Картинки}{35}{subsection.7.3}%
-\contentsline {section}{\numberline {8.\relax }}{40}{section.8}%
-\contentsline {subsection}{\numberline {8.1.\relax }}{40}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2.\relax }}{40}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3.\relax }}{40}{subsection.8.3}%
-\contentsline {section}{\numberline {9.\relax }}{41}{section.9}%
-\contentsline {subsection}{\numberline {9.1.\relax }}{41}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2.\relax }}{41}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3.\relax }}{41}{subsection.9.3}%
-\contentsline {section}{\numberline {10.\relax }}{42}{section.10}%
-\contentsline {subsection}{\numberline {10.1.\relax }}{42}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2.\relax }}{42}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3.\relax }}{42}{subsection.10.3}%
-\contentsline {section}{\numberline {11.\relax }}{43}{section.11}%
-\contentsline {subsection}{\numberline {11.1.\relax }}{43}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2.\relax }}{43}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3.\relax }}{43}{subsection.11.3}%
-\contentsline {section}{\numberline {12.\relax }}{44}{section.12}%
-\contentsline {subsection}{\numberline {12.1.\relax }}{44}{subsection.12.1}%
-\contentsline {subsection}{\numberline {12.2.\relax }}{44}{subsection.12.2}%
-\contentsline {subsection}{\numberline {12.3.\relax }}{44}{subsection.12.3}%
-\contentsline {section}{\numberline {13.\relax }}{45}{section.13}%
-\contentsline {subsection}{\numberline {13.1.\relax }}{45}{subsection.13.1}%
-\contentsline {subsection}{\numberline {13.2.\relax }}{45}{subsection.13.2}%
-\contentsline {subsection}{\numberline {13.3.\relax }}{45}{subsection.13.3}%
-\contentsline {section}{\numberline {14.\relax }}{46}{section.14}%
-\contentsline {subsection}{\numberline {14.1.\relax }}{46}{subsection.14.1}%
-\contentsline {subsection}{\numberline {14.2.\relax }}{46}{subsection.14.2}%
-\contentsline {subsection}{\numberline {14.3.\relax }}{46}{subsection.14.3}%
-\contentsline {section}{\numberline {15.\relax }}{47}{section.15}%
-\contentsline {subsection}{\numberline {15.1.\relax }}{47}{subsection.15.1}%
-\contentsline {subsection}{\numberline {15.2.\relax }}{47}{subsection.15.2}%
-\contentsline {subsection}{\numberline {15.3.\relax }}{47}{subsection.15.3}%
-\contentsline {section}{\numberline {16.\relax }}{48}{section.16}%
-\contentsline {subsection}{\numberline {16.1.\relax }}{48}{subsection.16.1}%
-\contentsline {subsection}{\numberline {16.2.\relax }}{48}{subsection.16.2}%
-\contentsline {subsection}{\numberline {16.3.\relax }}{48}{subsection.16.3}%
-\contentsline {section}{\numberline {17.\relax }}{49}{section.17}%
-\contentsline {subsection}{\numberline {17.1.\relax }}{49}{subsection.17.1}%
-\contentsline {subsection}{\numberline {17.2.\relax }}{49}{subsection.17.2}%
-\contentsline {subsection}{\numberline {17.3.\relax }}{49}{subsection.17.3}%
-\contentsline {section}{\numberline {18.\relax }}{50}{section.18}%
-\contentsline {subsection}{\numberline {18.1.\relax }}{50}{subsection.18.1}%
-\contentsline {subsection}{\numberline {18.2.\relax }}{50}{subsection.18.2}%
-\contentsline {subsection}{\numberline {18.3.\relax }}{50}{subsection.18.3}%
-\contentsline {section}{\numberline {19.\relax }}{51}{section.19}%
-\contentsline {subsection}{\numberline {19.1.\relax }}{51}{subsection.19.1}%
-\contentsline {subsection}{\numberline {19.2.\relax }}{51}{subsection.19.2}%
-\contentsline {subsection}{\numberline {19.3.\relax }}{51}{subsection.19.3}%
-\contentsline {section}{\numberline {20.\relax }}{52}{section.20}%
-\contentsline {subsection}{\numberline {20.1.\relax }}{52}{subsection.20.1}%
-\contentsline {subsection}{\numberline {20.2.\relax }}{52}{subsection.20.2}%
-\contentsline {subsection}{\numberline {20.3.\relax }}{52}{subsection.20.3}%
-\contentsline {section}{\numberline {21.\relax }}{53}{section.21}%
-\contentsline {subsection}{\numberline {21.1.\relax }}{53}{subsection.21.1}%
-\contentsline {subsection}{\numberline {21.2.\relax }}{53}{subsection.21.2}%
-\contentsline {subsection}{\numberline {21.3.\relax }}{53}{subsection.21.3}%
+\contentsline {subsubsection}{\numberline {6.2.1.\relax }Рисунок 1}{30}{subsubsection.6.2.1}%
+\contentsline {paragraph}{Рисунок 1.А}{30}{subsubsection.6.2.1}%
+\contentsline {paragraph}{Рисунок 1.B}{31}{subsubsection.6.2.1}%
+\contentsline {paragraph}{Рисунок 1.C}{31}{subsubsection.6.2.1}%
+\contentsline {paragraph}{Рисунок 1.D}{31}{subsubsection.6.2.1}%
+\contentsline {paragraph}{Рисунок 1.E}{31}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2.\relax }Рисунок 2}{31}{subsubsection.6.2.2}%
+\contentsline {paragraph}{Рисунок 2.А}{31}{subsubsection.6.2.2}%
+\contentsline {paragraph}{Рисунок 2.B}{32}{subsubsection.6.2.2}%
+\contentsline {paragraph}{Рисунок 2.С}{32}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3.\relax }Рисунок 3}{32}{subsubsection.6.2.3}%
+\contentsline {paragraph}{Рисунок 3.А}{32}{subsubsection.6.2.3}%
+\contentsline {paragraph}{Рисунок 3.B}{32}{subsubsection.6.2.3}%
+\contentsline {paragraph}{Рисунки 3.C, 3.D и 3.Е}{32}{subsubsection.6.2.3}%
+\contentsline {section}{\numberline {7.\relax }The master quorum-sensing regulators LuxR/HapR directly interact with the alpha subunit of RNA polymerase to drive transcription activation in Vibrio harveyi and Vibrio cholerae}{33}{section.7}%
+\contentsline {subsection}{\numberline {7.1.\relax }Нормальное название}{33}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2.\relax }Абстракт}{33}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3.\relax }Картинки}{33}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1.\relax }Рисунок 1}{33}{subsubsection.7.3.1}%
+\contentsline {paragraph}{Рисунок 1А}{34}{figure.34}%
+\contentsline {paragraph}{Рисунок 1B}{34}{figure.34}%
+\contentsline {paragraph}{Рисунок 1C}{34}{figure.34}%
+\contentsline {paragraph}{Рисунки D и E}{34}{figure.34}%
+\contentsline {subsubsection}{\numberline {7.3.2.\relax }Рисунок 2}{35}{subsubsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.3.\relax }Рисунок 5}{35}{subsubsection.7.3.3}%
+\contentsline {subsubsection}{\numberline {7.3.4.\relax }Рисунок 6}{36}{subsubsection.7.3.4}%
+\contentsline {subsubsection}{\numberline {7.3.5.\relax }Рисунок 7}{38}{subsubsection.7.3.5}%
+\contentsline {section}{\numberline {8.\relax }Engineering of a novel tri-functional enzyme with MnSOD, catalase and cell-permeable activities}{39}{section.8}%
+\contentsline {subsection}{\numberline {8.1.\relax }Нормальное название}{39}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2.\relax }Абстракт}{39}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3.\relax }Картинки}{40}{subsection.8.3}%
+\contentsline {section}{\numberline {9.\relax }The ribosome as a missing link in prebiotic evolution II: Ribosomes encode ribosomal proteins that bind to common regions of their own mRNAs and rRNAs}{48}{section.9}%
+\contentsline {subsection}{\numberline {9.1.\relax }Нормальное название}{48}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2.\relax }Абстракт}{48}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1.\relax }Пояснения к вышеуказанному}{48}{subsubsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.3.\relax }Картинки}{49}{subsection.9.3}%
+\contentsline {section}{\numberline {10.\relax }Error-prone PCR of a fungal xylanase for improvement of its alkaline and thermal stability}{51}{section.10}%
+\contentsline {subsection}{\numberline {10.1.\relax }Нормальное название}{51}{subsection.10.1}%
+\contentsline {subsubsection}{\numberline {10.1.1.\relax }Пояснения к вышесказанному}{51}{subsubsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.2.\relax }Абстракт}{51}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3.\relax }Картинки}{52}{subsection.10.3}%
+\contentsline {section}{\numberline {11.\relax }A Single Promoter Inversion Switches Photorhabdus Between Pathogenic and Mutualistic States}{55}{section.11}%
+\contentsline {subsection}{\numberline {11.1.\relax }Нормальное название}{55}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2.\relax }Абстракт}{55}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3.\relax }Картинки}{56}{subsection.11.3}%
+\contentsline {section}{\numberline {12.\relax }}{61}{section.12}%
+\contentsline {subsection}{\numberline {12.1.\relax }}{61}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2.\relax }}{61}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3.\relax }}{61}{subsection.12.3}%
+\contentsline {section}{\numberline {13.\relax }}{62}{section.13}%
+\contentsline {subsection}{\numberline {13.1.\relax }}{62}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2.\relax }}{62}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3.\relax }}{62}{subsection.13.3}%
+\contentsline {section}{\numberline {14.\relax }}{63}{section.14}%
+\contentsline {subsection}{\numberline {14.1.\relax }}{63}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2.\relax }}{63}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3.\relax }}{63}{subsection.14.3}%
+\contentsline {section}{\numberline {15.\relax }}{64}{section.15}%
+\contentsline {subsection}{\numberline {15.1.\relax }}{64}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2.\relax }}{64}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3.\relax }}{64}{subsection.15.3}%
+\contentsline {section}{\numberline {16.\relax }}{65}{section.16}%
+\contentsline {subsection}{\numberline {16.1.\relax }}{65}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2.\relax }}{65}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3.\relax }}{65}{subsection.16.3}%
+\contentsline {section}{\numberline {17.\relax }}{66}{section.17}%
+\contentsline {subsection}{\numberline {17.1.\relax }}{66}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2.\relax }}{66}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3.\relax }}{66}{subsection.17.3}%
+\contentsline {section}{\numberline {18.\relax }}{67}{section.18}%
+\contentsline {subsection}{\numberline {18.1.\relax }}{67}{subsection.18.1}%
+\contentsline {subsection}{\numberline {18.2.\relax }}{67}{subsection.18.2}%
+\contentsline {subsection}{\numberline {18.3.\relax }}{67}{subsection.18.3}%
+\contentsline {section}{\numberline {19.\relax }}{68}{section.19}%
+\contentsline {subsection}{\numberline {19.1.\relax }}{68}{subsection.19.1}%
+\contentsline {subsection}{\numberline {19.2.\relax }}{68}{subsection.19.2}%
+\contentsline {subsection}{\numberline {19.3.\relax }}{68}{subsection.19.3}%
+\contentsline {section}{\numberline {20.\relax }}{69}{section.20}%
+\contentsline {subsection}{\numberline {20.1.\relax }}{69}{subsection.20.1}%
+\contentsline {subsection}{\numberline {20.2.\relax }}{69}{subsection.20.2}%
+\contentsline {subsection}{\numberline {20.3.\relax }}{69}{subsection.20.3}%
+\contentsline {section}{\numberline {21.\relax }}{70}{section.21}%
+\contentsline {subsection}{\numberline {21.1.\relax }}{70}{subsection.21.1}%
+\contentsline {subsection}{\numberline {21.2.\relax }}{70}{subsection.21.2}%
+\contentsline {subsection}{\numberline {21.3.\relax }}{70}{subsection.21.3}%
