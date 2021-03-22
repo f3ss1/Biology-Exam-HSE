@@ -1,67 +1,78 @@
 \babel@toc {russian}{}
-\contentsline {section}{\numberline {1.\relax }Химическая и биологическая эволюция. Наследственность, изменчивость и естественный отбор. Основные таксономические группы живых систем. Строение клетки про- и эукариот (сходства и различия). Единство молекулярных механизмов живых систем (примеры). Организация генома живых существ: хромосомы, ДНК пластид и митохондрий, плазмиды.}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1.\relax }Химическая эволюция и биологическая эволюция}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2.\relax }Наследственность, изменчивость и естественный отбор}{3}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3.\relax }Основные таксономические группы живых систем}{4}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4.\relax }Строение клетки про- и эукариот (сходства и различия)}{4}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5.\relax }Единство молекулярных механизмов живых систем (примеры)}{5}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6.\relax }Организация генома живых существ: хромосомы, ДНК пластид и митохондрий, плазмиды}{5}{subsection.1.6}%
-\contentsline {subsubsection}{\numberline {1.6.1.\relax }Хромосомы}{5}{subsubsection.1.6.1}%
-\contentsline {subsubsection}{\numberline {1.6.2.\relax }ДНК пластид и митохондрий}{6}{subsubsection.1.6.2}%
-\contentsline {subsubsection}{\numberline {1.6.3.\relax }Плазмиды}{7}{subsubsection.1.6.3}%
-\contentsline {section}{\numberline {2.\relax }Основные классы биологический молекул, ДНК, генетический код}{9}{section.2}%
-\contentsline {subsection}{\numberline {2.1.\relax }Основыне классы биологический молекул}{9}{subsection.2.1}%
-\contentsline {paragraph}{Углеводны}{9}{subsection.2.1}%
-\contentsline {paragraph}{Липиды}{10}{figure.3}%
-\contentsline {paragraph}{Аминокислоты}{10}{figure.3}%
-\contentsline {paragraph}{Нуклеотиды}{11}{figure.3}%
-\contentsline {subsection}{\numberline {2.2.\relax }Формы ДНК}{12}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3.\relax }Отличие эукариот от прокариот}{13}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4.\relax }Генетический код}{13}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5.\relax }Митоз и мейоз}{13}{subsection.2.5}%
-\contentsline {section}{\numberline {3.\relax }Репликация ДНК: репликация линейных и кольцевых молекул ДНК, Затравка для ДНК-полимеразы, праймирование, фрагменты Оказаки. Ферменты, необходимые для репликации ДНК (полимеразы I и III, топоизомеразы, хеликаза, лигаза, праймаза, ssb). Теломеры и центромеры эукариот. Ориджины репликации бактерий. Белки определяющие начало репликации бактерий (DnaABC, ssb, SeqA, dam) Репликация кольцевых молекул ДНК по Тета –типу и по типу катящегося колеса}{16}{section.3}%
-\contentsline {subsection}{\numberline {3.1.\relax }Общее описание механизма репликации}{16}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2.\relax }Общее описание механизма репликации}{16}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3.\relax }Ферменты, необходимые для репликации ДНК}{17}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4.\relax }Теломеры и центромеры эукариот}{18}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5.\relax }Ориджины репликации у бактерий}{20}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6.\relax }Белки, определяющие начало репликации у бактерий}{20}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7.\relax }Репликация кольцевых молекул ДНК по тета-типу}{20}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8.\relax }Репликация кольцевых молекул ДНК по типу катящегося колеса}{20}{subsection.3.8}%
-\contentsline {section}{\numberline {4.\relax }}{21}{section.4}%
-\contentsline {section}{\numberline {5.\relax }}{22}{section.5}%
-\contentsline {section}{\numberline {6.\relax }Репликоны. Инициация раунда репликации ДНК Escherichia coli. Белки участвующие в регуляции инициации репликации (DnaABC, ssb, SeqA, dam). Топологические проблемы репликации. Сегрегация репликонов по бактериальным клеткам. Репликация плазмид, мобильных элементов, фагов и вирусов. Особенности репликации в эукариотах. Теломеры и центромеры. Сегрегация хромосом.}{23}{section.6}%
-\contentsline {subsection}{\numberline {6.1.\relax }Репликоны}{23}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2.\relax }Инициация раунда репликации ДНК Escherichia coli. Белки участвующие в регуляции инициации репликации (DnaABC, ssb, SeqA, dam).}{23}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3.\relax }Топологические проблемы репликации.}{24}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4.\relax }Сегрегация репликонов по бактериальным клеткам.}{25}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5.\relax }Репликация плазмид, мобильных элементов, фагов и вирусов.}{26}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6.\relax }Особенности репликации в эукариотах. Теломеры и центромеры. Сегрегация хромосом.}{26}{subsection.6.6}%
-\contentsline {section}{\numberline {7.\relax }Мутагенез. Спонтанный мутагенез. Скорость мутагенеза. Индуцированный мутагенез. Репарация димеров тимина с помощью фотолиазы и эксцизионной репарации. Понятие сайт-специфического мутагенеза.}{28}{section.7}%
-\contentsline {subsection}{\numberline {7.1.\relax }Мутагенез. Естественный мутагенез - Мутационная теория Де Фриза и Коржинского}{28}{subsection.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.1.\relax }Механизмы мутагенеза}{28}{subsubsection.7.1.1}%
-\contentsline {subsection}{\numberline {7.2.\relax }Скорость мутагенеза}{28}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3.\relax }Индуцированный мутагенез}{29}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4.\relax }Понятие сайт-специфического мутагенеза}{29}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5.\relax }Репарация димеров тимина с помощью фотолиазы и эксцизионной репарации}{30}{subsection.7.5}%
-\contentsline {subsubsection}{\numberline {7.5.1.\relax }Репарация ДНК}{31}{subsubsection.7.5.1}%
-\contentsline {section}{\numberline {8.\relax }Гомологичная рекомбинация. Модель Холлидея. Гены рекомбинации (recA, ssb, ruvABC). RecA и SOS-ответ. Сайт-специфическая рекомбинация. Рекомбинация в эукариотах. Кроссинговер.}{33}{section.8}%
-\contentsline {subsection}{\numberline {8.1.\relax }Гомологичная (общая) рекомбинация, модель Холидея}{33}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2.\relax }Гены рекомбинации}{34}{subsection.8.2}%
-\contentsline {paragraph}{RecA}{34}{subsection.8.2}%
-\contentsline {paragraph}{SSB}{34}{subsection.8.2}%
-\contentsline {paragraph}{ruvABC}{34}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3.\relax }SOS-ответ и recA}{35}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4.\relax }Сайт-специфическая рекомбинация}{35}{subsection.8.4}%
-\contentsline {paragraph}{Общая схема}{35}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1.\relax }Транспозиция}{36}{subsubsection.8.4.1}%
-\contentsline {paragraph}{ДНК транспозоны}{36}{subsubsection.8.4.1}%
-\contentsline {paragraph}{Вирус-подобные ретропозоны}{37}{figure.22}%
-\contentsline {section}{\numberline {9.\relax }Рекомбинация в эукариотах}{37}{section.9}%
-\contentsline {paragraph}{Мейотическая}{37}{section.9}%
-\contentsline {paragraph}{Митотическая}{38}{figure.23}%
-\contentsline {paragraph}{Кроссинговер}{39}{figure.24}%
-\contentsline {section}{\numberline {10.\relax }}{40}{section.10}%
-\contentsline {section}{\numberline {11.\relax }}{41}{section.11}%
-\contentsline {section}{\numberline {12.\relax }}{42}{section.12}%
-\contentsline {section}{\numberline {13.\relax }}{43}{section.13}%
+\contentsline {section}{\numberline {1.\relax }Химическая и биологическая эволюция. Наследственность, изменчивость и естественный отбор. Основные таксономические группы живых систем. Строение клетки про- и эукариот (сходства и различия). Единство молекулярных механизмов живых систем (примеры). Организация генома живых существ: хромосомы, ДНК пластид и митохондрий, плазмиды.}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1.\relax }Химическая эволюция и биологическая эволюция}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2.\relax }Наследственность, изменчивость и естественный отбор}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3.\relax }Основные таксономические группы живых систем}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4.\relax }Строение клетки про- и эукариот (сходства и различия)}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5.\relax }Единство молекулярных механизмов живых систем (примеры)}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6.\relax }Организация генома живых существ: хромосомы, ДНК пластид и митохондрий, плазмиды}{6}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1.\relax }Хромосомы}{6}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2.\relax }ДНК пластид и митохондрий}{7}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3.\relax }Плазмиды}{8}{subsubsection.1.6.3}%
+\contentsline {section}{\numberline {2.\relax }Основные классы биологический молекул, ДНК, генетический код}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1.\relax }Основыне классы биологический молекул}{10}{subsection.2.1}%
+\contentsline {paragraph}{Углеводны}{10}{subsection.2.1}%
+\contentsline {paragraph}{Липиды}{11}{figure.3}%
+\contentsline {paragraph}{Аминокислоты}{11}{figure.3}%
+\contentsline {paragraph}{Нуклеотиды}{12}{figure.3}%
+\contentsline {subsection}{\numberline {2.2.\relax }Формы ДНК}{13}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3.\relax }Отличие эукариот от прокариот}{14}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4.\relax }Генетический код}{14}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5.\relax }Митоз и мейоз}{14}{subsection.2.5}%
+\contentsline {section}{\numberline {3.\relax }Репликация ДНК: репликация линейных и кольцевых молекул ДНК, Затравка для ДНК-полимеразы, праймирование, фрагменты Оказаки. Ферменты, необходимые для репликации ДНК (полимеразы I и III, топоизомеразы, хеликаза, лигаза, праймаза, ssb). Теломеры и центромеры эукариот. Ориджины репликации бактерий. Белки определяющие начало репликации бактерий (DnaABC, ssb, SeqA, dam) Репликация кольцевых молекул ДНК по Тета –типу и по типу катящегося колеса}{17}{section.3}%
+\contentsline {subsection}{\numberline {3.1.\relax }Общее описание механизма репликации}{17}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2.\relax }Общее описание механизма репликации}{17}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3.\relax }Ферменты, необходимые для репликации ДНК}{18}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4.\relax }Теломеры и центромеры эукариот}{19}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5.\relax }Ориджины репликации у бактерий}{21}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6.\relax }Белки, определяющие начало репликации у бактерий}{21}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7.\relax }Репликация кольцевых молекул ДНК по тета-типу}{21}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8.\relax }Репликация кольцевых молекул ДНК по типу катящегося колеса}{21}{subsection.3.8}%
+\contentsline {section}{\numberline {4.\relax }}{22}{section.4}%
+\contentsline {section}{\numberline {5.\relax }}{23}{section.5}%
+\contentsline {section}{\numberline {6.\relax }Репликоны. Инициация раунда репликации ДНК Escherichia coli. Белки участвующие в регуляции инициации репликации (DnaABC, ssb, SeqA, dam). Топологические проблемы репликации. Сегрегация репликонов по бактериальным клеткам. Репликация плазмид, мобильных элементов, фагов и вирусов. Особенности репликации в эукариотах. Теломеры и центромеры. Сегрегация хромосом.}{24}{section.6}%
+\contentsline {subsection}{\numberline {6.1.\relax }Репликоны}{24}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2.\relax }Инициация раунда репликации ДНК Escherichia coli. Белки участвующие в регуляции инициации репликации (DnaABC, ssb, SeqA, dam).}{24}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3.\relax }Топологические проблемы репликации.}{25}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4.\relax }Сегрегация репликонов по бактериальным клеткам.}{26}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5.\relax }Репликация плазмид, мобильных элементов, фагов и вирусов.}{27}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6.\relax }Особенности репликации в эукариотах. Теломеры и центромеры. Сегрегация хромосом.}{27}{subsection.6.6}%
+\contentsline {section}{\numberline {7.\relax }Мутагенез. Спонтанный мутагенез. Скорость мутагенеза. Индуцированный мутагенез. Репарация димеров тимина с помощью фотолиазы и эксцизионной репарации. Понятие сайт-специфического мутагенеза.}{29}{section.7}%
+\contentsline {subsection}{\numberline {7.1.\relax }Мутагенез. Естественный мутагенез - Мутационная теория Де Фриза и Коржинского}{29}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.\relax }Механизмы мутагенеза}{29}{subsubsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.2.\relax }Скорость мутагенеза}{29}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3.\relax }Индуцированный мутагенез}{30}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4.\relax }Понятие сайт-специфического мутагенеза}{30}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5.\relax }Репарация димеров тимина с помощью фотолиазы и эксцизионной репарации}{31}{subsection.7.5}%
+\contentsline {subsubsection}{\numberline {7.5.1.\relax }Репарация ДНК}{32}{subsubsection.7.5.1}%
+\contentsline {section}{\numberline {8.\relax }Гомологичная рекомбинация. Модель Холлидея. Гены рекомбинации (recA, ssb, ruvABC). RecA и SOS-ответ. Сайт-специфическая рекомбинация. Рекомбинация в эукариотах. Кроссинговер.}{34}{section.8}%
+\contentsline {subsection}{\numberline {8.1.\relax }Гомологичная (общая) рекомбинация, модель Холидея}{34}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2.\relax }Гены рекомбинации}{35}{subsection.8.2}%
+\contentsline {paragraph}{RecA}{35}{subsection.8.2}%
+\contentsline {paragraph}{SSB}{35}{subsection.8.2}%
+\contentsline {paragraph}{ruvABC}{35}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3.\relax }SOS-ответ и recA}{36}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4.\relax }Сайт-специфическая рекомбинация}{36}{subsection.8.4}%
+\contentsline {paragraph}{Общая схема}{36}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1.\relax }Транспозиция}{37}{subsubsection.8.4.1}%
+\contentsline {paragraph}{ДНК транспозоны}{37}{subsubsection.8.4.1}%
+\contentsline {paragraph}{Вирус-подобные ретропозоны}{38}{figure.22}%
+\contentsline {section}{\numberline {9.\relax }Рекомбинация в эукариотах}{38}{section.9}%
+\contentsline {paragraph}{Мейотическая}{38}{section.9}%
+\contentsline {paragraph}{Митотическая}{39}{figure.23}%
+\contentsline {paragraph}{Кроссинговер}{40}{figure.24}%
+\contentsline {section}{\numberline {10.\relax }}{41}{section.10}%
+\contentsline {section}{\numberline {11.\relax }Репарация ДНК. Эксцизионная репарация NER и BER. Белки эксцизионной репарации (гликозилазы, АП-нуклеазы, UvrABCD, ДНК-полимераза II). SOS-ответ бактерий. Роль генов: recA, lexA, umuCD, uvrABCD}{42}{section.11}%
+\contentsline {subsection}{\numberline {11.1.\relax }Репарация ДНК}{42}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2.\relax }Эксцизионная репарация BER}{42}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3.\relax }Эксцизионная репарация NER}{43}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4.\relax }Белки эксцизионной репарации}{43}{subsection.11.4}%
+\contentsline {subsubsection}{\numberline {11.4.1.\relax }Гликозилаза}{43}{subsubsection.11.4.1}%
+\contentsline {subsubsection}{\numberline {11.4.2.\relax }АП-нуклеаза}{43}{subsubsection.11.4.2}%
+\contentsline {subsubsection}{\numberline {11.4.3.\relax }UvrABCD}{43}{subsubsection.11.4.3}%
+\contentsline {subsubsection}{\numberline {11.4.4.\relax }ДНК-полимераза II}{44}{subsubsection.11.4.4}%
+\contentsline {subsection}{\numberline {11.5.\relax }SOS-ответ бактерий и роль всевозможных генов}{44}{subsection.11.5}%
+\contentsline {subsubsection}{\numberline {11.5.1.\relax }Этапы SOS-репарации}{44}{subsubsection.11.5.1}%
+\contentsline {subsubsection}{\numberline {11.5.2.\relax }uvrABCD}{46}{subsubsection.11.5.2}%
+\contentsline {section}{\numberline {12.\relax }}{48}{section.12}%
+\contentsline {section}{\numberline {13.\relax }}{49}{section.13}%
