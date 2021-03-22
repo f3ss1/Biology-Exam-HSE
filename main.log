@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  15 MAR 2021 17:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  22 MAR 2021 16:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1624,7 +1624,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 168.
 <<t2a.cmap>>
-<Pictures//HSElogo.pdf, id=60, 597.50786pt x 845.04686pt>
+<Pictures//HSElogo.pdf, id=96, 597.50786pt x 845.04686pt>
 File: Pictures//HSElogo.pdf Graphic file (type pdf)
 <use Pictures//HSElogo.pdf>
 Package pdftex.def Info: Pictures//HSElogo.pdf  used on input line 183.
@@ -1649,36 +1649,61 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.192 	\newpage
-                [1] (./TeX_files/1.tex) [2] (./TeX_files/2.tex) [3]
-(./TeX_files/3.tex) [4] (./TeX_files/4.tex) [5] (./TeX_files/5.tex) [6]
-(./TeX_files/6.tex) [7] (./TeX_files/7.tex) [8] (./TeX_files/8.tex) [9]
-(./TeX_files/9.tex) [10] (./TeX_files/10.tex) [11] (./TeX_files/11.tex)
-[12] (./TeX_files/12.tex) 
+                [1] (./TeX_files/1.tex
+Overfull \hbox (10.00058pt too wide) in paragraph at lines 1--1
+[]\T2A/cmr/bx/n/17.28 Химическая и био-ло-ги-че-ская эво-лю-ция. На-след-ствен-
+ность,
+ []
+
+[2] [3] [4]
+<Pictures//1_chromosome.jpg, id=167, 501.875pt x 501.875pt>
+File: Pictures//1_chromosome.jpg Graphic file (type jpg)
+<use Pictures//1_chromosome.jpg>
+Package pdftex.def Info: Pictures//1_chromosome.jpg  used on input line 105.
+(pdftex.def)             Requested size: 358.50317pt x 358.52393pt.
+ [5 <./Pictures//1_chromosome.jpg>]
+Overfull \hbox (2.23962pt too wide) in paragraph at lines 125--126
+[]\T2A/cmr/bx/n/12 Лейкопласты \T2A/cmr/m/n/12 --- бес-цвет-ные пла-сти-ды окру
+г-лой, яй-це-вид-ной, ве-ре-те-но-об-раз-ной фор-
+ []
+
+<Pictures//1_plazmids.png, id=173, 1204.5pt x 565.11125pt>
+File: Pictures//1_plazmids.png Graphic file (type png)
+<use Pictures//1_plazmids.png>
+Package pdftex.def Info: Pictures//1_plazmids.png  used on input line 147.
+(pdftex.def)             Requested size: 358.50317pt x 168.19812pt.
+[6]) [7 <./Pictures//1_plazmids.png>] (./TeX_files/2.tex) [8]
+(./TeX_files/3.tex) [9] (./TeX_files/4.tex) [10] (./TeX_files/5.tex) [11]
+(./TeX_files/6.tex) [12] (./TeX_files/7.tex) [13] (./TeX_files/8.tex) [14]
+(./TeX_files/9.tex) [15] (./TeX_files/10.tex) [16] (./TeX_files/11.tex)
+[17] (./TeX_files/12.tex) 
 AED: lastpage setting LastPage
-[13] (./main.aux)
+[18] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 29205F1113FC00E9190B920C594A9EFC;426.
+(rerunfilecheck)             Checksum: 29AF96C2AC1272DDDBF3F656FC33DEF9;6522.
  ) 
 Here is how much of TeX's memory you used:
- 27611 strings out of 479916
- 504248 string characters out of 5886648
- 817192 words of memory out of 5000000
- 43509 multiletter control sequences out of 15000+600000
- 553850 words of font info for 82 fonts, out of 8000000 for 9000
+ 27668 strings out of 479916
+ 505124 string characters out of 5886648
+ 836848 words of memory out of 5000000
+ 43540 multiletter control sequences out of 15000+600000
+ 555005 words of font info for 84 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 77i,11n,88p,476b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
-live/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/
-texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist
-/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2020/texmf-dist/fonts/typ
-e1/public/cm-super/sfcc1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
-cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
-frm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pf
-b><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on main.pdf (14 pages, 173103 bytes).
+ 77i,11n,88p,2681b,489s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
+live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2020
+/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/texmf-dis
+t/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/ty
+pe1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public
+/cm-super/sfbx2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/
+sfcc1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
+fb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/tex
+live/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/
+texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on main.pdf (19 pages, 413064 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 279 PDF objects out of 1000 (max. 8388607)
+ 237 compressed objects within 3 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
