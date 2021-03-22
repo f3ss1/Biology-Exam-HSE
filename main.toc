@@ -27,60 +27,67 @@
 \contentsline {subsection}{\numberline {3.5.\relax }Ориджины репликации у бактерий}{21}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6.\relax }Белки, определяющие начало репликации у бактерий}{21}{subsection.3.6}%
 \contentsline {subsection}{\numberline {3.7.\relax }Репликация кольцевых молекул ДНК по тета-типу}{21}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8.\relax }Репликация кольцевых молекул ДНК по типу катящегося колеса}{21}{subsection.3.8}%
-\contentsline {section}{\numberline {4.\relax }}{22}{section.4}%
-\contentsline {section}{\numberline {5.\relax }Трансляция}{23}{section.5}%
-\contentsline {subsection}{\numberline {5.1.\relax }Структура рибосомы. Рибосомная РНК и белки}{23}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2.\relax }Функциональные активности и функциональные участки рибосомы}{24}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3.\relax }Информационные и транспортные РНК. Аминоацил-тРНК-синетазы}{25}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4.\relax }Энергетика биосинтеза белка, использование АТФ и ГТФ}{26}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5.\relax }Инициация трансляции у прокариот, последовательность Шайна-Далгарно}{26}{subsection.5.5}%
-\contentsline {subsubsection}{\numberline {5.5.1.\relax }Терминация трансляции прокариот}{26}{subsubsection.5.5.1}%
-\contentsline {subsection}{\numberline {5.6.\relax }Инициация трансляции у эукариот, кэп-сайт.Терминация трансляции.}{27}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1.\relax }Терминация трансляции эукариот}{28}{subsubsection.5.6.1}%
-\contentsline {section}{\numberline {6.\relax }Репликоны. Инициация раунда репликации ДНК Escherichia coli. Белки участвующие в регуляции инициации репликации (DnaABC, ssb, SeqA, dam). Топологические проблемы репликации. Сегрегация репликонов по бактериальным клеткам. Репликация плазмид, мобильных элементов, фагов и вирусов. Особенности репликации в эукариотах. Теломеры и центромеры. Сегрегация хромосом.}{29}{section.6}%
-\contentsline {subsection}{\numberline {6.1.\relax }Репликоны}{29}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2.\relax }Инициация раунда репликации ДНК Escherichia coli. Белки участвующие в регуляции инициации репликации (DnaABC, ssb, SeqA, dam).}{29}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3.\relax }Топологические проблемы репликации.}{30}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4.\relax }Сегрегация репликонов по бактериальным клеткам.}{31}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5.\relax }Репликация плазмид, мобильных элементов, фагов и вирусов.}{32}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6.\relax }Особенности репликации в эукариотах. Теломеры и центромеры. Сегрегация хромосом.}{32}{subsection.6.6}%
-\contentsline {section}{\numberline {7.\relax }Мутагенез. Спонтанный мутагенез. Скорость мутагенеза. Индуцированный мутагенез. Репарация димеров тимина с помощью фотолиазы и эксцизионной репарации. Понятие сайт-специфического мутагенеза.}{34}{section.7}%
-\contentsline {subsection}{\numberline {7.1.\relax }Мутагенез. Естественный мутагенез - Мутационная теория Де Фриза и Коржинского}{34}{subsection.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.1.\relax }Механизмы мутагенеза}{34}{subsubsection.7.1.1}%
-\contentsline {subsection}{\numberline {7.2.\relax }Скорость мутагенеза}{34}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3.\relax }Индуцированный мутагенез}{35}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4.\relax }Понятие сайт-специфического мутагенеза}{35}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5.\relax }Репарация димеров тимина с помощью фотолиазы и эксцизионной репарации}{36}{subsection.7.5}%
-\contentsline {subsubsection}{\numberline {7.5.1.\relax }Репарация ДНК}{37}{subsubsection.7.5.1}%
-\contentsline {section}{\numberline {8.\relax }Гомологичная рекомбинация. Модель Холлидея. Гены рекомбинации (recA, ssb, ruvABC). RecA и SOS-ответ. Сайт-специфическая рекомбинация. Рекомбинация в эукариотах. Кроссинговер.}{39}{section.8}%
-\contentsline {subsection}{\numberline {8.1.\relax }Гомологичная (общая) рекомбинация, модель Холидея}{39}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2.\relax }Гены рекомбинации}{40}{subsection.8.2}%
-\contentsline {paragraph}{RecA}{40}{subsection.8.2}%
-\contentsline {paragraph}{SSB}{40}{subsection.8.2}%
-\contentsline {paragraph}{ruvABC}{40}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3.\relax }SOS-ответ и recA}{41}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4.\relax }Сайт-специфическая рекомбинация}{41}{subsection.8.4}%
-\contentsline {paragraph}{Общая схема}{41}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1.\relax }Транспозиция}{42}{subsubsection.8.4.1}%
-\contentsline {paragraph}{ДНК транспозоны}{42}{subsubsection.8.4.1}%
-\contentsline {paragraph}{Вирус-подобные ретропозоны}{43}{figure.27}%
-\contentsline {section}{\numberline {9.\relax }Рекомбинация в эукариотах}{43}{section.9}%
-\contentsline {paragraph}{Мейотическая}{43}{section.9}%
-\contentsline {paragraph}{Митотическая}{44}{figure.28}%
-\contentsline {paragraph}{Кроссинговер}{45}{figure.29}%
-\contentsline {section}{\numberline {10.\relax }}{46}{section.10}%
-\contentsline {section}{\numberline {11.\relax }Репарация ДНК. Эксцизионная репарация NER и BER. Белки эксцизионной репарации (гликозилазы, АП-нуклеазы, UvrABCD, ДНК-полимераза II). SOS-ответ бактерий. Роль генов: recA, lexA, umuCD, uvrABCD}{47}{section.11}%
-\contentsline {subsection}{\numberline {11.1.\relax }Репарация ДНК}{47}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2.\relax }Эксцизионная репарация BER}{47}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3.\relax }Эксцизионная репарация NER}{48}{subsection.11.3}%
-\contentsline {subsection}{\numberline {11.4.\relax }Белки эксцизионной репарации}{48}{subsection.11.4}%
-\contentsline {subsubsection}{\numberline {11.4.1.\relax }Гликозилаза}{48}{subsubsection.11.4.1}%
-\contentsline {subsubsection}{\numberline {11.4.2.\relax }АП-нуклеаза}{48}{subsubsection.11.4.2}%
-\contentsline {subsubsection}{\numberline {11.4.3.\relax }UvrABCD}{48}{subsubsection.11.4.3}%
-\contentsline {subsubsection}{\numberline {11.4.4.\relax }ДНК-полимераза II}{49}{subsubsection.11.4.4}%
-\contentsline {subsection}{\numberline {11.5.\relax }SOS-ответ бактерий и роль всевозможных генов}{49}{subsection.11.5}%
-\contentsline {subsubsection}{\numberline {11.5.1.\relax }Этапы SOS-репарации}{49}{subsubsection.11.5.1}%
-\contentsline {subsubsection}{\numberline {11.5.2.\relax }uvrABCD}{51}{subsubsection.11.5.2}%
-\contentsline {section}{\numberline {12.\relax }}{53}{section.12}%
-\contentsline {section}{\numberline {13.\relax }}{54}{section.13}%
+\contentsline {subsection}{\numberline {3.8.\relax }Репликация кольцевых молекул ДНК по типу катящегося колеса}{22}{subsection.3.8}%
+\contentsline {section}{\numberline {4.\relax }}{24}{section.4}%
+\contentsline {section}{\numberline {5.\relax }Трансляция}{25}{section.5}%
+\contentsline {subsection}{\numberline {5.1.\relax }Структура рибосомы. Рибосомная РНК и белки}{25}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2.\relax }Функциональные активности и функциональные участки рибосомы}{26}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3.\relax }Информационные и транспортные РНК. Аминоацил-тРНК-синетазы}{27}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4.\relax }Энергетика биосинтеза белка, использование АТФ и ГТФ}{28}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5.\relax }Инициация трансляции у прокариот, последовательность Шайна-Далгарно}{28}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1.\relax }Терминация трансляции прокариот}{28}{subsubsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.6.\relax }Инициация трансляции у эукариот, кэп-сайт.Терминация трансляции.}{29}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1.\relax }Терминация трансляции эукариот}{30}{subsubsection.5.6.1}%
+\contentsline {section}{\numberline {6.\relax }Репликоны. Инициация раунда репликации ДНК Escherichia coli. Белки участвующие в регуляции инициации репликации (DnaABC, ssb, SeqA, dam). Топологические проблемы репликации. Сегрегация репликонов по бактериальным клеткам. Репликация плазмид, мобильных элементов, фагов и вирусов. Особенности репликации в эукариотах. Теломеры и центромеры. Сегрегация хромосом.}{31}{section.6}%
+\contentsline {subsection}{\numberline {6.1.\relax }Репликоны}{31}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2.\relax }Инициация раунда репликации ДНК Escherichia coli. Белки участвующие в регуляции инициации репликации (DnaABC, ssb, SeqA, dam).}{31}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3.\relax }Топологические проблемы репликации.}{32}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4.\relax }Сегрегация репликонов по бактериальным клеткам.}{33}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5.\relax }Репликация плазмид, мобильных элементов, фагов и вирусов.}{34}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6.\relax }Особенности репликации в эукариотах. Теломеры и центромеры. Сегрегация хромосом.}{34}{subsection.6.6}%
+\contentsline {section}{\numberline {7.\relax }Мутагенез. Спонтанный мутагенез. Скорость мутагенеза. Индуцированный мутагенез. Репарация димеров тимина с помощью фотолиазы и эксцизионной репарации. Понятие сайт-специфического мутагенеза.}{37}{section.7}%
+\contentsline {subsection}{\numberline {7.1.\relax }Мутагенез. Естественный мутагенез - Мутационная теория Де Фриза и Коржинского}{37}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.\relax }Механизмы мутагенеза}{37}{subsubsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.2.\relax }Скорость мутагенеза}{37}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3.\relax }Индуцированный мутагенез}{38}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4.\relax }Понятие сайт-специфического мутагенеза}{38}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5.\relax }Репарация димеров тимина с помощью фотолиазы и эксцизионной репарации}{39}{subsection.7.5}%
+\contentsline {subsubsection}{\numberline {7.5.1.\relax }Репарация ДНК}{40}{subsubsection.7.5.1}%
+\contentsline {section}{\numberline {8.\relax }Гомологичная рекомбинация. Модель Холлидея. Гены рекомбинации (recA, ssb, ruvABC). RecA и SOS-ответ. Сайт-специфическая рекомбинация. Рекомбинация в эукариотах. Кроссинговер.}{42}{section.8}%
+\contentsline {subsection}{\numberline {8.1.\relax }Гомологичная (общая) рекомбинация, модель Холидея}{42}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2.\relax }Гены рекомбинации}{43}{subsection.8.2}%
+\contentsline {paragraph}{RecA}{43}{subsection.8.2}%
+\contentsline {paragraph}{SSB}{43}{subsection.8.2}%
+\contentsline {paragraph}{ruvABC}{43}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3.\relax }SOS-ответ и recA}{44}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4.\relax }Сайт-специфическая рекомбинация}{44}{subsection.8.4}%
+\contentsline {paragraph}{Общая схема}{44}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1.\relax }Транспозиция}{45}{subsubsection.8.4.1}%
+\contentsline {paragraph}{ДНК транспозоны}{45}{subsubsection.8.4.1}%
+\contentsline {paragraph}{Вирус-подобные ретропозоны}{46}{figure.27}%
+\contentsline {subsection}{\numberline {8.5.\relax }Рекомбинация в эукариотах}{46}{subsection.8.5}%
+\contentsline {paragraph}{Мейотическая}{46}{subsection.8.5}%
+\contentsline {paragraph}{Митотическая}{47}{figure.28}%
+\contentsline {paragraph}{Кроссинговер}{48}{figure.29}%
+\contentsline {section}{\numberline {9.\relax }Промоторы прокариот и регуляторные элементы. Лактозный оперон. Аттенюация на примере триптофанового оперона. Промоторы эукариот. Энхансеры и сайленсеры. Альтернативный сплайсинг.}{49}{section.9}%
+\contentsline {subsection}{\numberline {9.1.\relax }Промотор}{49}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2.\relax }Промоторы прокариот и регуляторные элементы}{49}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3.\relax }Лактозный оперон}{49}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4.\relax }Аттенюация на примере триптофанового оперона}{51}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5.\relax }Промоторы эукариот}{52}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6.\relax }Энхансеры и сайленсеры}{52}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7.\relax }Альтернативный сплайсинг}{53}{subsection.9.7}%
+\contentsline {section}{\numberline {10.\relax }Репарация ДНК. Эксцизионная репарация NER и BER. Белки эксцизионной репарации (гликозилазы, АП-нуклеазы, UvrABCD, ДНК-полимераза II). SOS-ответ бактерий. Роль генов: recA, lexA, umuCD, uvrABCD}{54}{section.10}%
+\contentsline {subsection}{\numberline {10.1.\relax }Репарация ДНК}{54}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2.\relax }Эксцизионная репарация BER}{54}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3.\relax }Эксцизионная репарация NER}{55}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4.\relax }Белки эксцизионной репарации}{55}{subsection.10.4}%
+\contentsline {subsubsection}{\numberline {10.4.1.\relax }Гликозилаза}{55}{subsubsection.10.4.1}%
+\contentsline {subsubsection}{\numberline {10.4.2.\relax }АП-нуклеаза}{55}{subsubsection.10.4.2}%
+\contentsline {subsubsection}{\numberline {10.4.3.\relax }UvrABCD}{55}{subsubsection.10.4.3}%
+\contentsline {subsubsection}{\numberline {10.4.4.\relax }ДНК-полимераза II}{56}{subsubsection.10.4.4}%
+\contentsline {subsection}{\numberline {10.5.\relax }SOS-ответ бактерий и роль всевозможных генов}{56}{subsection.10.5}%
+\contentsline {subsubsection}{\numberline {10.5.1.\relax }Этапы SOS-репарации}{56}{subsubsection.10.5.1}%
+\contentsline {subsubsection}{\numberline {10.5.2.\relax }uvrABCD}{58}{subsubsection.10.5.2}%
+\contentsline {section}{\numberline {11.\relax }}{60}{section.11}%
+\contentsline {section}{\numberline {12.\relax }}{61}{section.12}%
