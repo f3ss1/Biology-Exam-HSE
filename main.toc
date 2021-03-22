@@ -9,7 +9,7 @@
 \contentsline {subsubsection}{\numberline {1.6.1.\relax }Хромосомы}{5}{subsubsection.1.6.1}%
 \contentsline {subsubsection}{\numberline {1.6.2.\relax }ДНК пластид и митохондрий}{6}{subsubsection.1.6.2}%
 \contentsline {subsubsection}{\numberline {1.6.3.\relax }Плазмиды}{7}{subsubsection.1.6.3}%
-\contentsline {section}{\numberline {2.\relax }Второй билет. Основные классы биологический молекул, ДНК, генетический код}{9}{section.2}%
+\contentsline {section}{\numberline {2.\relax }Основные классы биологический молекул, ДНК, генетический код}{9}{section.2}%
 \contentsline {subsection}{\numberline {2.1.\relax }Основыне классы биологический молекул}{9}{subsection.2.1}%
 \contentsline {paragraph}{Углеводны}{9}{subsection.2.1}%
 \contentsline {paragraph}{Липиды}{10}{figure.3}%
