@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  22 MAR 2021 21:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  23 MAR 2021 00:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1624,7 +1624,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 168.
 <<t2a.cmap>>
-<Pictures//HSElogo.pdf, id=329, 597.50786pt x 845.04686pt>
+<Pictures//HSElogo.pdf, id=341, 597.50786pt x 845.04686pt>
 File: Pictures//HSElogo.pdf Graphic file (type pdf)
 <use Pictures//HSElogo.pdf>
 Package pdftex.def Info: Pictures//HSElogo.pdf  used on input line 183.
@@ -1651,7 +1651,19 @@ Overfull \hbox (2.16055pt too wide) in paragraph at lines 41--41
 scherichia coli. Бел-ки участ- 
  []
 
-[2])
+[2]
+Overfull \hbox (3.21053pt too wide) in paragraph at lines 92--92
+ \T2A/cmr/bx/n/12 (при-ме-ры для ос-нов-ных групп по EC - ѕEnzyme Commissionї/ѕ
+классификация 
+ []
+
+
+Overfull \hbox (22.03598pt too wide) in paragraph at lines 92--92
+ \T2A/cmr/bx/n/12 фер-мен-товї). Хро-ма-то-гра-фи-че-ские ме-то-ды раз-де-ле-ни
+я бел-ков: гель-фильтрация, 
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1662,7 +1674,7 @@ Overfull \hbox (10.00058pt too wide) in paragraph at lines 1--1
  []
 
 [4] [5] [6]
-<Pictures//1_chromosome.jpg, id=490, 501.875pt x 501.875pt>
+<Pictures//1_chromosome.jpg, id=508, 501.875pt x 501.875pt>
 File: Pictures//1_chromosome.jpg Graphic file (type jpg)
 <use Pictures//1_chromosome.jpg>
 Package pdftex.def Info: Pictures//1_chromosome.jpg  used on input line 105.
@@ -1673,40 +1685,40 @@ Overfull \hbox (2.23962pt too wide) in paragraph at lines 125--126
 г-лой, яй-це-вид-ной, ве-ре-те-но-об-раз-ной фор-
  []
 
-<Pictures//1_plazmids.png, id=496, 1204.5pt x 565.11125pt>
+<Pictures//1_plazmids.png, id=514, 1204.5pt x 565.11125pt>
 File: Pictures//1_plazmids.png Graphic file (type png)
 <use Pictures//1_plazmids.png>
 Package pdftex.def Info: Pictures//1_plazmids.png  used on input line 147.
 (pdftex.def)             Requested size: 358.50317pt x 168.19812pt.
 [8]) [9 <./Pictures//1_plazmids.png>] (./TeX_files/2.tex
-<Pictures//2glu.png, id=508, 1603.9925pt x 818.05624pt>
+<Pictures//2glu.png, id=526, 1603.9925pt x 818.05624pt>
 File: Pictures//2glu.png Graphic file (type png)
 <use Pictures//2glu.png>
 Package pdftex.def Info: Pictures//2glu.png  used on input line 7.
 (pdftex.def)             Requested size: 320.79282pt x 163.60834pt.
-<Pictures//2mal.png, id=509, 1846.9pt x 820.06375pt>
+<Pictures//2mal.png, id=527, 1846.9pt x 820.06375pt>
 File: Pictures//2mal.png Graphic file (type png)
 <use Pictures//2mal.png>
 Package pdftex.def Info: Pictures//2mal.png  used on input line 8.
 (pdftex.def)             Requested size: 369.37346pt x 164.00984pt.
-<Pictures//2lipid.png, id=510, 1017.8025pt x 737.75626pt>
+<Pictures//2lipid.png, id=528, 1017.8025pt x 737.75626pt>
 File: Pictures//2lipid.png Graphic file (type png)
 <use Pictures//2lipid.png>
 Package pdftex.def Info: Pictures//2lipid.png  used on input line 29.
 (pdftex.def)             Requested size: 305.34311pt x 221.32858pt.
  [10 <./Pictures//2glu.png> <./Pictures//2mal.png>]
-<Pictures//2amin.png, id=523, 377.41pt x 299.1175pt>
+<Pictures//2amin.png, id=541, 377.41pt x 299.1175pt>
 File: Pictures//2amin.png Graphic file (type png)
 <use Pictures//2amin.png>
 Package pdftex.def Info: Pictures//2amin.png  used on input line 34.
 (pdftex.def)             Requested size: 264.1852pt x 209.38081pt.
  [11 <./Pictures//2lipid.png> <./Pictures//2amin.png>]
-<Pictures//2nucle.png, id=530, 632.3625pt x 227.85126pt>
+<Pictures//2nucle.png, id=548, 632.3625pt x 227.85126pt>
 File: Pictures//2nucle.png Graphic file (type png)
 <use Pictures//2nucle.png>
 Package pdftex.def Info: Pictures//2nucle.png  used on input line 45.
 (pdftex.def)             Requested size: 442.65074pt x 159.49478pt.
-<Pictures//2atf.png, id=531, 1342.01375pt x 462.72874pt>
+<Pictures//2atf.png, id=549, 1342.01375pt x 462.72874pt>
 File: Pictures//2atf.png Graphic file (type png)
 <use Pictures//2atf.png>
 Package pdftex.def Info: Pictures//2atf.png  used on input line 53.
@@ -1722,12 +1734,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--58
  []
 
 [12 <./Pictures//2nucle.png> <./Pictures//2atf.png>]
-<Pictures//2adnk.png, id=539, 809.0225pt x 451.6875pt>
+<Pictures//2adnk.png, id=557, 809.0225pt x 451.6875pt>
 File: Pictures//2adnk.png Graphic file (type png)
 <use Pictures//2adnk.png>
 Package pdftex.def Info: Pictures//2adnk.png  used on input line 69.
 (pdftex.def)             Requested size: 404.51027pt x 225.84319pt.
-<Pictures//2zdnk.png, id=540, 823.075pt x 474.77374pt>
+<Pictures//2zdnk.png, id=558, 823.075pt x 474.77374pt>
 File: Pictures//2zdnk.png Graphic file (type png)
 <use Pictures//2zdnk.png>
 Package pdftex.def Info: Pictures//2zdnk.png  used on input line 73.
@@ -1737,7 +1749,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-<Pictures//2mi.png, id=547, 864.22874pt x 648.4225pt>
+<Pictures//2mi.png, id=565, 864.22874pt x 648.4225pt>
 File: Pictures//2mi.png Graphic file (type png)
 <use Pictures//2mi.png>
 Package pdftex.def Info: Pictures//2mi.png  used on input line 91.
@@ -1747,36 +1759,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
  []
 
-<Pictures//2m1.png, id=553, 420.57124pt x 375.4025pt>
+<Pictures//2m1.png, id=571, 420.57124pt x 375.4025pt>
 File: Pictures//2m1.png Graphic file (type png)
 <use Pictures//2m1.png>
 Package pdftex.def Info: Pictures//2m1.png  used on input line 100.
 (pdftex.def)             Requested size: 210.28511pt x 187.70079pt.
-<Pictures//2m2.png, id=554, 460.72125pt x 415.5525pt>
+<Pictures//2m2.png, id=572, 460.72125pt x 415.5525pt>
 File: Pictures//2m2.png Graphic file (type png)
 <use Pictures//2m2.png>
 Package pdftex.def Info: Pictures//2m2.png  used on input line 101.
 (pdftex.def)             Requested size: 230.36006pt x 207.77574pt.
-<Pictures//2m3.png, id=555, 395.4775pt x 442.65375pt>
+<Pictures//2m3.png, id=573, 395.4775pt x 442.65375pt>
 File: Pictures//2m3.png Graphic file (type png)
 <use Pictures//2m3.png>
 Package pdftex.def Info: Pictures//2m3.png  used on input line 102.
 (pdftex.def)             Requested size: 197.73827pt x 221.32632pt.
-<Pictures//2m4.png, id=556, 498.86375pt x 409.53pt>
+<Pictures//2m4.png, id=574, 498.86375pt x 409.53pt>
 File: Pictures//2m4.png Graphic file (type png)
 <use Pictures//2m4.png>
 Package pdftex.def Info: Pictures//2m4.png  used on input line 103.
 (pdftex.def)             Requested size: 249.43126pt x 204.7645pt.
 [15 <./Pictures//2mi.png>]) [16 <./Pictures//2m1.png> <./Pictures//2m2.png> <./
 Pictures//2m3.png> <./Pictures//2m4.png>] (./TeX_files/3.tex [17]
-<Pictures//3_replication_main.png, id=578, 295.8252pt x 222.5916pt>
+<Pictures//3_replication_main.png, id=596, 295.8252pt x 222.5916pt>
 File: Pictures//3_replication_main.png Graphic file (type png)
 <use Pictures//3_replication_main.png>
 Package pdftex.def Info: Pictures//3_replication_main.png  used on input line 4
 4.
 (pdftex.def)             Requested size: 409.72125pt x 308.30096pt.
  [18 <./Pictures//3_replication_main.png (PNG copy)>]
-<Pictures//3_replication.png, id=585, 554.07pt x 469.25313pt>
+<Pictures//3_replication.png, id=603, 554.07pt x 469.25313pt>
 File: Pictures//3_replication.png Graphic file (type png)
 <use Pictures//3_replication.png>
 Package pdftex.def Info: Pictures//3_replication.png  used on input line 69.
@@ -1788,12 +1800,12 @@ Overfull \hbox (22.49223pt too wide) in paragraph at lines 79--80
  []
 
 [19 <./Pictures//3_replication.png>]
-<Pictures//3_telomere.png, id=590, 301.125pt x 180.675pt>
+<Pictures//3_telomere.png, id=608, 301.125pt x 180.675pt>
 File: Pictures//3_telomere.png Graphic file (type png)
 <use Pictures//3_telomere.png>
 Package pdftex.def Info: Pictures//3_telomere.png  used on input line 85.
 (pdftex.def)             Requested size: 301.12425pt x 180.67455pt.
-<Pictures//3_centromere.png, id=591, 285.56688pt x 469.25313pt>
+<Pictures//3_centromere.png, id=609, 285.56688pt x 469.25313pt>
 File: Pictures//3_centromere.png Graphic file (type png)
 <use Pictures//3_centromere.png>
 Package pdftex.def Info: Pictures//3_centromere.png  used on input line 94.
@@ -1804,13 +1816,13 @@ Overfull \hbox (21.75465pt too wide) in paragraph at lines 108--109
 а-ла ре-пли-ка-ции хро-мо-со-мы Escherichia
  []
 
-<Pictures//3_theta.png, id=599, 368.87813pt x 450.18187pt>
+<Pictures//3_theta.png, id=617, 368.87813pt x 450.18187pt>
 File: Pictures//3_theta.png Graphic file (type png)
 <use Pictures//3_theta.png>
 Package pdftex.def Info: Pictures//3_theta.png  used on input line 127.
 (pdftex.def)             Requested size: 204.85672pt x 250.00502pt.
 [21]
-<Pictures//3_wheel.png, id=606, 555.57562pt x 422.07687pt>
+<Pictures//3_wheel.png, id=624, 555.57562pt x 422.07687pt>
 File: Pictures//3_wheel.png Graphic file (type png)
 <use Pictures//3_wheel.png>
 Package pdftex.def Info: Pictures//3_wheel.png  used on input line 137.
@@ -1825,14 +1837,14 @@ Overfull \hbox (23.4717pt too wide) in paragraph at lines 14--16
 тРНК со-от-вет-ству-ю-щей ей аминоацил-
  []
 
-<Pictures/5_3(translation_e).jpg, id=623, 879.285pt x 327.2225pt>
+<Pictures/5_3(translation_e).jpg, id=642, 879.285pt x 327.2225pt>
 File: Pictures/5_3(translation_e).jpg Graphic file (type jpg)
 <use Pictures/5_3(translation_e).jpg>
 Package pdftex.def Info: Pictures/5_3(translation_e).jpg  used on input line 21
 .
 (pdftex.def)             Requested size: 409.72125pt x 152.47644pt.
 [25 <./Pictures/5_3(translation_e).jpg>]
-<Pictures/5_1(cell).png, id=640, 582.67688pt x 251.43938pt>
+<Pictures/5_1(cell).png, id=658, 582.67688pt x 251.43938pt>
 File: Pictures/5_1(cell).png Graphic file (type png)
 <use Pictures/5_1(cell).png>
 Package pdftex.def Info: Pictures/5_1(cell).png  used on input line 35.
@@ -1843,12 +1855,12 @@ Overfull \hbox (0.28575pt too wide) in paragraph at lines 51--52
 связывающий Р-участок); 
  []
 
-<Pictures/5_2(rybosome).jpg, id=641, 602.25pt x 392.46625pt>
+<Pictures/5_2(rybosome).jpg, id=659, 602.25pt x 392.46625pt>
 File: Pictures/5_2(rybosome).jpg Graphic file (type jpg)
 <use Pictures/5_2(rybosome).jpg>
 Package pdftex.def Info: Pictures/5_2(rybosome).jpg  used on input line 68.
 (pdftex.def)             Requested size: 179.25159pt x 116.81255pt.
-<Pictures/5_4(sites).jpg, id=642, 399.74344pt x 261.97874pt>
+<Pictures/5_4(sites).jpg, id=660, 399.74344pt x 261.97874pt>
 File: Pictures/5_4(sites).jpg Graphic file (type jpg)
 <use Pictures/5_4(sites).jpg>
 Package pdftex.def Info: Pictures/5_4(sites).jpg  used on input line 72.
@@ -1868,7 +1880,7 @@ Overfull \hbox (15.4938pt too wide) in paragraph at lines 83--83
  []
 
 [27 <./Pictures/5_2(rybosome).jpg> <./Pictures/5_4(sites).jpg>]
-<Pictures/5_6(init_pro).jpg, id=659, 602.25pt x 906.38625pt>
+<Pictures/5_6(init_pro).jpg, id=677, 602.25pt x 906.38625pt>
 File: Pictures/5_6(init_pro).jpg Graphic file (type jpg)
 <use Pictures/5_6(init_pro).jpg>
 Package pdftex.def Info: Pictures/5_6(init_pro).jpg  used on input line 116.
@@ -1878,7 +1890,7 @@ Package pdftex.def Info: Pictures/5_6(init_pro).jpg  used on input line 116.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [28] [29 <./Pictures/5_6(init_pro).jpg>]
-<Pictures/5_5(init_eu).jpg, id=669, 648.17157pt x 440.39531pt>
+<Pictures/5_5(init_eu).jpg, id=687, 648.17157pt x 440.39531pt>
 File: Pictures/5_5(init_eu).jpg Graphic file (type jpg)
 <use Pictures/5_5(init_eu).jpg>
 Package pdftex.def Info: Pictures/5_5(init_eu).jpg  used on input line 157.
@@ -1893,12 +1905,12 @@ ichia
 
 LaTeX Warning: Reference `6_replicon1' on page 31 undefined on input line 16.
 
-<Pictures//6_replicon2.jpg, id=678, 331.4784pt x 155.6214pt>
+<Pictures//6_replicon2.jpg, id=696, 331.4784pt x 155.6214pt>
 File: Pictures//6_replicon2.jpg Graphic file (type jpg)
 <use Pictures//6_replicon2.jpg>
 Package pdftex.def Info: Pictures//6_replicon2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 331.47757pt x 155.621pt.
-<Pictures//6_replicon1.jpg, id=679, 258.2448pt x 316.0608pt>
+<Pictures//6_replicon1.jpg, id=697, 258.2448pt x 316.0608pt>
 File: Pictures//6_replicon1.jpg Graphic file (type jpg)
 <use Pictures//6_replicon1.jpg>
 Package pdftex.def Info: Pictures//6_replicon1.jpg  used on input line 27.
@@ -1907,25 +1919,25 @@ Package pdftex.def Info: Pictures//6_replicon1.jpg  used on input line 27.
 LaTeX Warning: Reference `fig3:rep' on page 31 undefined on input line 40.
 
 [31 <./Pictures//6_replicon2.jpg>]
-<Pictures//6_topology.png, id=686, 654.94687pt x 363.85938pt>
+<Pictures//6_topology.png, id=704, 654.94687pt x 363.85938pt>
 File: Pictures//6_topology.png Graphic file (type png)
 <use Pictures//6_topology.png>
 Package pdftex.def Info: Pictures//6_topology.png  used on input line 57.
 (pdftex.def)             Requested size: 409.72125pt x 227.62251pt.
  [32 <./Pictures//6_replicon1.jpg>]
-<Pictures//6_deleniye.png, id=694, 800.9925pt x 379.4175pt>
+<Pictures//6_deleniye.png, id=712, 800.9925pt x 379.4175pt>
 File: Pictures//6_deleniye.png Graphic file (type png)
 <use Pictures//6_deleniye.png>
 Package pdftex.def Info: Pictures//6_deleniye.png  used on input line 68.
 (pdftex.def)             Requested size: 358.50317pt x 169.82156pt.
  [33 <./Pictures//6_topology.png> <./Pictures//6_deleniye.png>]
-<Pictures//6_chromatide.png, id=701, 569.12625pt x 258.9675pt>
+<Pictures//6_chromatide.png, id=719, 569.12625pt x 258.9675pt>
 File: Pictures//6_chromatide.png Graphic file (type png)
 <use Pictures//6_chromatide.png>
 Package pdftex.def Info: Pictures//6_chromatide.png  used on input line 101.
 (pdftex.def)             Requested size: 358.50317pt x 163.13457pt.
  [34]
-<Pictures//6_chromosome.png, id=708, 215.30438pt x 420.06938pt>
+<Pictures//6_chromosome.png, id=726, 215.30438pt x 420.06938pt>
 File: Pictures//6_chromosome.png Graphic file (type png)
 <use Pictures//6_chromosome.png>
 Package pdftex.def Info: Pictures//6_chromosome.png  used on input line 112.
@@ -1947,7 +1959,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-<Pictures//7_mutation_pace.jpg, id=719, 1053.9375pt x 507.8975pt>
+<Pictures//7_mutation_pace.jpg, id=737, 1053.9375pt x 507.8975pt>
 File: Pictures//7_mutation_pace.jpg Graphic file (type jpg)
 <use Pictures//7_mutation_pace.jpg>
 Package pdftex.def Info: Pictures//7_mutation_pace.jpg  used on input line 36.
@@ -1972,7 +1984,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-<Pictures//7_site_mutagenesis.png, id=729, 540.51938pt x 788.19469pt>
+<Pictures//7_site_mutagenesis.png, id=748, 540.51938pt x 788.19469pt>
 File: Pictures//7_site_mutagenesis.png Graphic file (type png)
 <use Pictures//7_site_mutagenesis.png>
 Package pdftex.def Info: Pictures//7_site_mutagenesis.png  used on input line 6
@@ -1980,12 +1992,12 @@ Package pdftex.def Info: Pictures//7_site_mutagenesis.png  used on input line 6
 (pdftex.def)             Requested size: 358.50317pt x 522.78386pt.
 [38 <./Pictures//7_mutation_pace.jpg>] [39 <./Pictures//7_site_mutagenesis.png>
 ]
-<Pictures//7_dna_lesion.png, id=740, 451.6875pt x 348.30125pt>
+<Pictures//7_dna_lesion.png, id=759, 451.6875pt x 348.30125pt>
 File: Pictures//7_dna_lesion.png Graphic file (type png)
 <use Pictures//7_dna_lesion.png>
 Package pdftex.def Info: Pictures//7_dna_lesion.png  used on input line 74.
 (pdftex.def)             Requested size: 358.50317pt x 276.46237pt.
-<Pictures//7_timin_dimer.png, id=741, 126.4725pt x 41.9166pt>
+<Pictures//7_timin_dimer.png, id=760, 126.4725pt x 41.9166pt>
 File: Pictures//7_timin_dimer.png Graphic file (type png)
 <use Pictures//7_timin_dimer.png>
 Package pdftex.def Info: Pictures//7_timin_dimer.png  used on input line 81.
@@ -2002,7 +2014,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--219
 
 [40 <./Pictures//7_dna_lesion.png> <./Pictures//7_timin_dimer.png>] [41]
 (./TeX_files/8.tex
-<Pictures//8_holi.png, id=757, 705.63625pt x 479.7925pt>
+<Pictures//8_holi.png, id=775, 705.63625pt x 479.7925pt>
 File: Pictures//8_holi.png Graphic file (type png)
 <use Pictures//8_holi.png>
 Package pdftex.def Info: Pictures//8_holi.png  used on input line 28.
@@ -2012,36 +2024,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-<Pictures//8_ruvAB.png, id=768, 471.7625pt x 444.66125pt>
+<Pictures//8_ruvAB.png, id=786, 471.7625pt x 444.66125pt>
 File: Pictures//8_ruvAB.png Graphic file (type png)
 <use Pictures//8_ruvAB.png>
 Package pdftex.def Info: Pictures//8_ruvAB.png  used on input line 49.
 (pdftex.def)             Requested size: 235.88066pt x 222.33008pt.
-<Pictures//8_ruvC.png, id=769, 408.52625pt x 384.43625pt>
+<Pictures//8_ruvC.png, id=787, 408.52625pt x 384.43625pt>
 File: Pictures//8_ruvC.png Graphic file (type png)
 <use Pictures//8_ruvC.png>
 Package pdftex.def Info: Pictures//8_ruvC.png  used on input line 51.
 (pdftex.def)             Requested size: 204.26262pt x 192.21765pt.
 [43 <./Pictures//8_holi.png>]
-<Pictures//8_ssrec.png, id=776, 478.78876pt x 764.8575pt>
+<Pictures//8_ssrec.png, id=794, 478.78876pt x 764.8575pt>
 File: Pictures//8_ssrec.png Graphic file (type png)
 <use Pictures//8_ssrec.png>
 Package pdftex.def Info: Pictures//8_ssrec.png  used on input line 73.
 (pdftex.def)             Requested size: 239.39378pt x 382.42781pt.
  [44 <./Pictures//8_ruvAB.png> <./Pictures//8_ruvC.png>]
-<Pictures//8_transp.png, id=786, 496.85625pt x 574.145pt>
+<Pictures//8_transp.png, id=804, 496.85625pt x 574.145pt>
 File: Pictures//8_transp.png Graphic file (type png)
 <use Pictures//8_transp.png>
 Package pdftex.def Info: Pictures//8_transp.png  used on input line 87.
 (pdftex.def)             Requested size: 248.4275pt x 287.0718pt.
  [45 <./Pictures//8_ssrec.png>]
-<Pictures//8_mes_red.png, id=794, 526.96875pt x 759.83875pt>
+<Pictures//8_mes_red.png, id=812, 526.96875pt x 759.83875pt>
 File: Pictures//8_mes_red.png Graphic file (type png)
 <use Pictures//8_mes_red.png>
 Package pdftex.def Info: Pictures//8_mes_red.png  used on input line 99.
 (pdftex.def)             Requested size: 368.8756pt x 531.8835pt.
  [46 <./Pictures//8_transp.png>]
-<Pictures//8_eurec.png, id=803, 550.055pt x 631.35875pt>
+<Pictures//8_eurec.png, id=821, 550.055pt x 631.35875pt>
 File: Pictures//8_eurec.png Graphic file (type png)
 <use Pictures//8_eurec.png>
 Package pdftex.def Info: Pictures//8_eurec.png  used on input line 107.
@@ -2053,18 +2065,18 @@ Overfull \hbox (1.2854pt too wide) in paragraph at lines 8--9
 и-дов ДНК, узна-ва-е-мая РНК-полимеразой как стар-
  []
 
-<Pictures//9_lactose.png, id=817, 450.18187pt x 443.15562pt>
+<Pictures//9_lactose.png, id=835, 450.18187pt x 443.15562pt>
 File: Pictures//9_lactose.png Graphic file (type png)
 <use Pictures//9_lactose.png>
 Package pdftex.def Info: Pictures//9_lactose.png  used on input line 30.
 (pdftex.def)             Requested size: 307.2929pt x 302.51166pt.
 [49]
-<Pictures//9_glucose_on.png, id=825, 616.80438pt x 402.00188pt>
+<Pictures//9_glucose_on.png, id=843, 616.80438pt x 402.00188pt>
 File: Pictures//9_glucose_on.png Graphic file (type png)
 <use Pictures//9_glucose_on.png>
 Package pdftex.def Info: Pictures//9_glucose_on.png  used on input line 62.
 (pdftex.def)             Requested size: 225.85896pt x 147.20485pt.
-<Pictures//9_lactose_on.png, id=826, 613.29124pt x 402.00188pt>
+<Pictures//9_lactose_on.png, id=844, 613.29124pt x 402.00188pt>
 File: Pictures//9_lactose_on.png Graphic file (type png)
 <use Pictures//9_lactose_on.png>
 Package pdftex.def Info: Pictures//9_lactose_on.png  used on input line 70.
@@ -2076,13 +2088,13 @@ Overfull \hbox (9.99379pt too wide) in paragraph at lines 59--75
 
 [50 <./Pictures//9_lactose.png>] [51 <./Pictures//9_glucose_on.png> <./Pictures
 //9_lactose_on.png>]
-<Pictures//9_tryptophan.png, id=840, 460.21938pt x 467.24562pt>
+<Pictures//9_tryptophan.png, id=858, 460.21938pt x 467.24562pt>
 File: Pictures//9_tryptophan.png Graphic file (type png)
 <use Pictures//9_tryptophan.png>
 Package pdftex.def Info: Pictures//9_tryptophan.png  used on input line 103.
 (pdftex.def)             Requested size: 358.50317pt x 363.9938pt.
  [52 <./Pictures//9_tryptophan.png>]
-<Pictures//9_splicing.jpg, id=846, 1003.75pt x 793.96625pt>
+<Pictures//9_splicing.jpg, id=864, 1003.75pt x 793.96625pt>
 File: Pictures//9_splicing.jpg Graphic file (type jpg)
 <use Pictures//9_splicing.jpg>
 Package pdftex.def Info: Pictures//9_splicing.jpg  used on input line 136.
@@ -2098,19 +2110,19 @@ Overfull \hbox (18.18262pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 UvrABCD, ДНК-полимераза II). SOS-ответ бак-те-рий. Роль
  []
 
-<Pictures//10_BER.png, id=853, 587.94656pt x 440.39531pt>
+<Pictures//10_BER.png, id=871, 587.94656pt x 440.39531pt>
 File: Pictures//10_BER.png Graphic file (type png)
 <use Pictures//10_BER.png>
 Package pdftex.def Info: Pictures//10_BER.png  used on input line 21.
 (pdftex.def)             Requested size: 409.72125pt x 306.89703pt.
 [54 <./Pictures//10_BER.png>]
-<Pictures//10_NER.png, id=862, 583.42969pt x 441.90094pt>
+<Pictures//10_NER.png, id=881, 583.42969pt x 441.90094pt>
 File: Pictures//10_NER.png Graphic file (type png)
 <use Pictures//10_NER.png>
 Package pdftex.def Info: Pictures//10_NER.png  used on input line 32.
 (pdftex.def)             Requested size: 409.72125pt x 310.33997pt.
  [55 <./Pictures//10_NER.png>] [56]
-<Pictures//10_gene_functions.png, id=874, 648.92438pt x 502.87875pt>
+<Pictures//10_gene_functions.png, id=892, 648.92438pt x 502.87875pt>
 File: Pictures//10_gene_functions.png Graphic file (type png)
 <use Pictures//10_gene_functions.png>
 Package pdftex.def Info: Pictures//10_gene_functions.png  used on input line 85
@@ -2122,22 +2134,50 @@ Overfull \hbox (0.63493pt too wide) in paragraph at lines 91--92
 ый ком-плекс в бак-те-ри-ях, участ-
  []
 
-[58 <./Pictures//10_gene_functions.png>]) [59] (./TeX_files/11.tex) [60]
-(./TeX_files/12.tex) 
+[58 <./Pictures//10_gene_functions.png>]) [59] (./TeX_files/11.tex
+Overfull \hbox (19.51369pt too wide) in paragraph at lines 1--1
+\T2A/cmr/bx/n/17.28 EC - ѕEnzyme Commissionї/ѕклассификация фер-мен-товї).
+ []
+
+[60]
+<Pictures/Hydrolase.jpg, id=931, 1505.625pt x 225.84375pt>
+File: Pictures/Hydrolase.jpg Graphic file (type jpg)
+<use Pictures/Hydrolase.jpg>
+Package pdftex.def Info: Pictures/Hydrolase.jpg  used on input line 38.
+(pdftex.def)             Requested size: 512.14963pt x 76.82376pt.
+<Pictures/Lease.jpg, id=932, 331.83975pt x 86.12175pt>
+File: Pictures/Lease.jpg Graphic file (type jpg)
+<use Pictures/Lease.jpg>
+Package pdftex.def Info: Pictures/Lease.jpg  used on input line 45.
+(pdftex.def)             Requested size: 512.14963pt x 132.9275pt.
+<Pictures/Izomerase.jpg, id=933, 389.65575pt x 171.64125pt>
+File: Pictures/Izomerase.jpg Graphic file (type jpg)
+<use Pictures/Izomerase.jpg>
+Package pdftex.def Info: Pictures/Izomerase.jpg  used on input line 52.
+(pdftex.def)             Requested size: 512.14963pt x 225.61378pt.
+ [61 <./Pictures/Hydrolase.jpg> <./Pictures/Lease.jpg>]
+<Pictures/Cromato.jpg, id=940, 394.47375pt x 366.77025pt>
+File: Pictures/Cromato.jpg Graphic file (type jpg)
+<use Pictures/Cromato.jpg>
+Package pdftex.def Info: Pictures/Cromato.jpg  used on input line 73.
+(pdftex.def)             Requested size: 512.14963pt x 476.21924pt.
+ [62 <./Pictures/Izomerase.jpg>]) [63 <./Pictures/Cromato.jpg>] (./TeX_files/12
+.tex)
+
 AED: lastpage setting LastPage
-[61] (./main.aux)
+[64] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1BFB3DF63C79B25EC2ABA854030E1085;37877.
+(rerunfilecheck)             Checksum: 7D5CD2530A8733A988126AD1E1A75A6F;40726.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 28352 strings out of 479916
- 517410 string characters out of 5886648
- 858231 words of memory out of 5000000
- 43982 multiletter control sequences out of 15000+600000
+ 28398 strings out of 479916
+ 518158 string characters out of 5886648
+ 858468 words of memory out of 5000000
+ 44005 multiletter control sequences out of 15000+600000
  567303 words of font info for 122 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  77i,13n,88p,3496b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2160,10 +2200,10 @@ c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive
 /2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texm
 f-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2020/texmf-dist/fon
 ts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (62 pages, 11412840 bytes).
+Output written on main.pdf (65 pages, 11671858 bytes).
 PDF statistics:
- 1019 PDF objects out of 1200 (max. 8388607)
- 845 compressed objects within 9 object streams
- 209 named destinations out of 1000 (max. 500000)
- 930 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1072 PDF objects out of 1200 (max. 8388607)
+ 891 compressed objects within 9 object streams
+ 228 named destinations out of 1000 (max. 500000)
+ 974 words of extra memory for PDF output out of 10000 (max. 10000000)
 

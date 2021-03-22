@@ -89,5 +89,8 @@
 \contentsline {subsection}{\numberline {10.5.\relax }SOS-ответ бактерий и роль всевозможных генов}{56}{subsection.10.5}%
 \contentsline {subsubsection}{\numberline {10.5.1.\relax }Этапы SOS-репарации}{56}{subsubsection.10.5.1}%
 \contentsline {subsubsection}{\numberline {10.5.2.\relax }uvrABCD}{58}{subsubsection.10.5.2}%
-\contentsline {section}{\numberline {11.\relax }}{60}{section.11}%
-\contentsline {section}{\numberline {12.\relax }}{61}{section.12}%
+\contentsline {section}{\numberline {11.\relax }Классификация белков по функции. Ферменты, классификация ферментов (примеры для основных групп по EC - «Enzyme Commission»/«классификация ферментов»). Хроматографические методы разделения белков: гель-фильтрация, ионообменная хр-я, обращённая фаза, аффинная хр-я.}{60}{section.11}%
+\contentsline {subsection}{\numberline {11.1.\relax }Функции белков:}{60}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2.\relax }Классификация ферментов:}{60}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3.\relax }Хроматографические методы разделения белков}{62}{subsection.11.3}%
+\contentsline {section}{\numberline {12.\relax }}{64}{section.12}%
